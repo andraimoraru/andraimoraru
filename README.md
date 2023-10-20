@@ -13,7 +13,7 @@
   
 
 - 🔭 I’m currently working on my dev portfolio.
-- 🌱 I’m currently learning Cypress.io, .NET and C# and exploring Technical Content Writing.
+- 🌱 I’m currently learning Cypress.io, .NET and C# and studying Computer Science (BSc) (year 1, blended-learning) at Arden University.
 - :zap: In my free time, I love travelling, listening to music, cooking, and enjoying family time.
 - 👯 I’m looking to collaborate on educational/kids software development projects.
 - 💬 Ask me about anything!

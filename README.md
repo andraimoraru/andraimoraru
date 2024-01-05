@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on my dev portfolio.
 - 🌱 I’m currently learning Java and studying Computer Science (BSc) (year 1, blended-learning) at Arden University.
-- :zap: In my free time, I love travelling, listening to music, cooking, and enjoying family time.
+- :zap: In my free time, I love travelling (especially on motorcycle but not only), listening to music, cooking, and enjoying family time with my husband and 2 kids.
 - 👯 I’m looking to collaborate on educational/kids software development projects.
 - 💬 Ask me about anything!
 - 📫 How to reach me: andraimoraru@gmail.com

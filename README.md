@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-   My name is Andra and I am an e-commerce founder (BijuNet.uk) recently turned Software Developer.
+   My name is Andra and I am a jewellery e-commerce founder (BijuNet.uk) recently turned Software Developer.
 
    My coding journey started 27 years ago, during college, when I was introduced to computer science. My first programming language was Pascal and I remember thinking and writing my code on paper and waiting patiently to check if it was correct when the lab was open, twice a week, for one hour only (not many had computers at home back then and the college had only 30 available). 3 years later, with the college bursary savings I got my first computer and since then I have changed many throughout the years (desktops, laptops, tablets, etc) and did not pass a day without working on one. My journey took me to different places (photography, jewellery making, e-commerce, digital marketing, accounting) but I have never forgotten about algorithms, informational systems, and my love for problem-solving! 
 

@@ -2,9 +2,9 @@
 
    My name is Andra and I am a jewellery e-commerce founder (BijuNet.uk) recently turned Software Developer.
 
-   My coding journey started 27 years ago, during college, when I was introduced to computer science. My first programming language was Pascal and I remember thinking and writing my code on paper and waiting patiently to check if it was correct when the lab was open, twice a week, for one hour only (not many had computers at home back then and the college had only 30 available). 3 years later, with the college bursary savings I got my first computer and since then I have changed many throughout the years (desktops, laptops, tablets, etc) and did not pass a day without working on one. My journey took me to different places (photography, jewellery making, e-commerce, digital marketing, accounting) but I have never forgotten about algorithms, informational systems, and my love for problem-solving! 
+   My coding journey started 27 years ago, during college, when I was introduced to computer science. My first programming language was Pascal and I remember thinking and writing my code on paper and waiting patiently to check if it was correct when the lab was open, twice a week, for one hour only (not many had computers at home back then and the college had only 30 available). 3 years later, with the college bursary savings I got my first computer and since then I have changed many devices throughout the years (desktops, laptops, tablets, etc) and did not pass a day without working on one. My journey took me to different places (photography, jewellery making, e-commerce, digital marketing, accounting) but I have never forgotten about algorithms, informational systems, and my love for problem-solving! 
 
-   This year(2023), I was enrolled on the Software Development Northcoders boot camp. I took it as a challenge, went through javascript fundamentals, did the precourse, completed the given katas and passed the Entry Challenge. Little did I know back then that I would love it so much!
+   In 2023, I was enrolled on the Software Development Northcoders boot camp. I took it as a challenge, went through javascript fundamentals, did the precourse, completed the given katas and passed the Entry Challenge. Little did I know back then that I would love it so much!
 
   I started the course on the 3rd of July and graduated on the 29th of September. It all went like a breeze! Every day we would learn new concepts through lectures and seminars, having coding sprints, pairing up with different students from the cohort, and being tested technically but also emotionally. I loved the fast-paced environment and the idea of learning something new every day so here starts my real coding journey, as a Junior Software Developer!
 
@@ -13,9 +13,9 @@
   
 
 - 🔭 I’m currently working on my dev portfolio.
-- 🌱 I’m currently learning Java and studying Computer Science (BSc) (year 1, blended-learning) at Arden University.
-- :zap: In my free time, I love travelling (especially on motorcycle but not only), listening to music, cooking, and enjoying family time with my husband and 2 kids.
-- 👯 I’m looking to collaborate on educational/kids software development projects.
+- 🌱 I’m learning Java and studying Computer Science (BSc) (year 1, blended-learning) at Arden University.
+- :zap: In my free time, I love travelling (especially on the motorcycle but not only), listening to music, cooking, and enjoying family time with my husband and 2 kids.
+- 👯 I’m open to collaborating on educational/kids software development projects.
 - 💬 Ask me about anything!
 - 📫 How to reach me: andraimoraru@gmail.com
   

@@ -17,9 +17,15 @@
 - :zap: In my free time, I love travelling (especially on the motorcycle but not only), listening to music, cooking, and enjoying family time with my husband and 2 kids.
 - 👯 I’m open to collaborating on educational/kids software development projects.
 - 💬 Ask me about anything!
-- 📫 How to reach me: andraimoraru@gmail.com
-  
 
+  
+  ###  How to reach me: 
+
+Email📫: andraimoraru@gmail.com
+
+Schedule a 30-minute call - pick your slot: <a href="https://calendly.com/andraimoraru/30min" target="_blank"><img width="498" alt="meet_link" src="images/30mins_calendly.png"></a>
+
+<br><hr><br>
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;

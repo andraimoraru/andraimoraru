@@ -1,4 +1,4 @@
-### Hi there! 👋
+   ### Hi there! 👋
 
    My name is Andra and I am a jewellery e-commerce founder (BijuNet.uk) recently turned Software Developer.
 
@@ -19,13 +19,15 @@
 - 💬 Ask me about anything!
 
   
-  ###  How to reach me: 
+  ###  📫 How to reach me: 
 
-Email📫: andraimoraru@gmail.com
+Email: andraimoraru@gmail.com
 
-Schedule a 30-minute call - pick your slot: <a href="https://calendly.com/andraimoraru/30min" target="_blank"><img width="498" alt="meet_link" src="images/30mins_calendly.png"></a>
+Schedule a 30-minute call - pick your slot 👇
 
-<br><hr><br>
+<a href="https://calendly.com/andraimoraru/30min" target="_blank"><img width="400" alt="meeting_link" src="images/30mins_calendly.png"></a>
+
+<hr><br>
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;

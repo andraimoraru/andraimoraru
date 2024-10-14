@@ -13,7 +13,7 @@
   
 
 - 🔭 I’m currently working on my dev portfolio.
-- 🌱 I’m learning Java and studying Computer Science (BSc) (year 1, blended-learning) at Arden University.
+- 🌱 I’m learning Java and studying Computer Science (BSc) (year 2, blended-learning) at Arden University.
 - :zap: In my free time, I love travelling (especially on the motorcycle but not only), listening to music, cooking, and enjoying family time with my husband and 2 kids.
 - 👯 I’m open to collaborating on educational/kids software development projects.
 

@@ -24,7 +24,7 @@
 
 Schedule a 30-minute call - pick your slot 👇
 
-<a href="https://calendly.com/andraimoraru/30min" target="_blank"><img width="400" alt="meeting_link" src="images/30mins_calendly.png"></a>
+<a href="https://calendly.com/andraimoraru/1-on-1-web-dev-chat" target="_blank"><img width="400" alt="meeting_link" src="images/30mins_calendly.png"></a>
 
 <hr><br>
   

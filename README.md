@@ -22,9 +22,9 @@
   ###  📫 How to reach me: 
 
 
-Schedule a 30-minutes call - pick your slot 👇
+Schedule a 15 minutes call - pick your slot 👇
 
-<a href="https://calendly.com/andraimoraru/15min" target="_blank"></a>
+<a href="https://calendly.com/andraimoraru/15min" target="_blank">Click here to schedule</a>
 
 <hr><br>
   

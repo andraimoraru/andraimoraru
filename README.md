@@ -212,7 +212,7 @@ My developer portfolio, experiments and software projects.
 
 **Focus:** Full-stack development · Web applications · AI experiments
 
-🔗 [bijudev.uk](https://bijudev.uk)
+🔗 [andramoraru.com](http://www.andramoraru.com)
 
 <br>
 
@@ -339,7 +339,7 @@ const andra = {
 
 🤖 **Exploring** practical AI and LLM integrations
 
-🧠 **Developing** my full-stack skills across PHP, JavaScript, TypeScript, React, Node and databases
+🧠 **Developing** my full-stack skills across PHP, JavaScript, HTML, CSS, React, Node and databases(MySQL, PSQL, MongoDB, MariaDB, Firebase)
 
 🛒 **Combining** software engineering with years of e-commerce and business experience
 
@@ -368,7 +368,7 @@ I'm always happy to talk about **software development, AI, e-commerce, mentoring
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-bijudev.uk-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://bijudev.uk)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-andramoraru.com-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://andramoraru.com)
  
 [![Schedule](https://img.shields.io/badge/SCHEDULE_A_CALL-Calendly-006BFF?style=for-the-badge\&logo=calendly\&logoColor=white)](https://calendly.com/andraimoraru/15min)
 

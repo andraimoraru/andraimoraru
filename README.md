@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-andramoraru.com-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://andramoraru.com)
 [![GitHub](https://img.shields.io/badge/GitHub-andraimoraru-181717?style=for-the-badge\&logo=github)](https://github.com/andraimoraru)
-[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-Calendly-006BFF?style=for-the-badge\&logo=calendly\&logoColor=white)](https://calendly.com/andraimoraru/30min)
+[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-Calendly-006BFF?style=for-the-badge\&logo=calendly\&logoColor=white)]([https://calendly.com/andraimoraru/30min])
 
 </div>
 
@@ -370,7 +370,7 @@ I'm always happy to talk about **software development, AI, e-commerce, mentoring
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-andramoraru.com-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://andramoraru.com)
  
-[![Schedule](https://img.shields.io/badge/SCHEDULE_A_CALL-Calendly-006BFF?style=for-the-badge\&logo=calendly\&logoColor=white)](https://calendly.com/andraimoraru/15min)
+[![Schedule](https://img.shields.io/badge/SCHEDULE_A_CALL-Calendly-006BFF?style=for-the-badge\&logo=calendly\&logoColor=white)]([https://calendly.com/andraimoraru/30min])
 
 <br><br>
 
